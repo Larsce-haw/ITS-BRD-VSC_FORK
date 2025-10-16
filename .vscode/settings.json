@@ -117,8 +117,7 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-
-    "--compile-commands-dir=/Users/martin/Documents/git/ITS-BRD-VSC/Programs/Stack/out/Stack/ITSboard/Debug"
-
-  ]
+    "--compile-commands-dir=/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/out/TestProj/ITSboard/Debug"
+  ],
+  "debug.hideSlowPreLaunchWarning": true
 }

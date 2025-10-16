@@ -1,0 +1,8 @@
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/database.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-build.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-configure.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-executes.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-database.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/edit_cache.dir
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/rebuild_cache.dir

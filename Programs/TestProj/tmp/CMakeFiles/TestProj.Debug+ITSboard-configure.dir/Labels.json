@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/CMakeFiles/TestProj.Debug+ITSboard-configure"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/CMakeFiles/TestProj.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-update.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TestProj.Debug+ITSboard"
+		],
+		"name" : "TestProj.Debug+ITSboard-configure"
+	}
+}

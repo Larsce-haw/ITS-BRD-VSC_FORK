@@ -1,0 +1,11 @@
+# Target labels
+ TestProj.Debug+ITSboard
+# Source files and their labels
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/CMakeFiles/TestProj.Debug+ITSboard-build
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/CMakeFiles/TestProj.Debug+ITSboard-build.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-build.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-configure.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-patch.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-update.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-download.rule
+/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard/src/TestProj.Debug+ITSboard-stamp/TestProj.Debug+ITSboard-mkdir.rule
