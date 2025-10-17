@@ -2515,7 +2515,7 @@ Removing Unused input sections from the image.
     Removing LCD_Demos.o(.ARM.exidx.text.TP_Dialog), (8 bytes).
     Removing LCD_Demos.o(.text.TP_DrawBoard), (514 bytes).
     Removing LCD_Demos.o(.ARM.exidx.text.TP_DrawBoard), (8 bytes).
-    Removing LCD_Demos.o(.rodata.str1.1), (143 bytes).
+    Removing LCD_Demos.o(.rodata.str1.1), (144 bytes).
     Removing LCD_Demos.o(.rodata.cst4), (4 bytes).
     Removing LCD_Demos.o(.data.TP_DrawBoard.brushColor), (2 bytes).
     Removing error.o(.text), (0 bytes).
@@ -2644,7 +2644,7 @@ Removing Unused input sections from the image.
     Removing dfixul.o(.text), (48 bytes).
     Removing cdrcmple.o(.text), (48 bytes).
 
-1051 unused section(s) (total 68883 bytes) removed from the image.
+1051 unused section(s) (total 68884 bytes) removed from the image.
 
 ==============================================================================
 
@@ -2694,7 +2694,7 @@ Image Symbol Table
     ../fplib/microlib/fpmul.c                0x00000000   Number         0  dmul.o ABSOLUTE
     ../fplib/microlib/fpsqrt.c               0x00000000   Number         0  dsqrt.o ABSOLUTE
     ../mathlib/sqrt.c                        0x00000000   Number         0  sqrt.o ABSOLUTE
-    /home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/ITS_BRD_LIB/Src/startup/startup_stm32f429xx.s 0x00000000   Number         0  startup_stm32f429xx.o ABSOLUTE
+    /home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/ITS_BRD_LIB/Src/startup/startup_stm32f429xx.s 0x00000000   Number         0  startup_stm32f429xx.o ABSOLUTE
     Consolas40.c                             0x00000000   Number         0  Consolas40.o ABSOLUTE
     Consolas60.c                             0x00000000   Number         0  Consolas60.o ABSOLUTE
     Consolas80.c                             0x00000000   Number         0  Consolas80.o ABSOLUTE
@@ -3027,18 +3027,18 @@ Image Symbol Table
     [Anonymous Symbol]                       0x080b5104   Section        0  USART_STM32F4xx.o(.rodata.USART3_rx)
     USART3_tx                                0x080b5110   Data          12  USART_STM32F4xx.o(.rodata.USART3_tx)
     [Anonymous Symbol]                       0x080b5110   Section        0  USART_STM32F4xx.o(.rodata.USART3_tx)
-    .L.str                                   0x080b5183   Data          96  LCD_GUI.o(.rodata.str1.1)
+    .L.str                                   0x080b5183   Data          97  LCD_GUI.o(.rodata.str1.1)
     [Anonymous Symbol]                       0x080b5183   Section        0  LCD_GUI.o(.rodata.str1.1)
-    .L.str                                   0x080b51e3   Data          96  LCD_SPI.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x080b51e3   Section        0  LCD_SPI.o(.rodata.str1.1)
-    .L.str                                   0x080b5243   Data          96  LCD_TIM.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x080b5243   Section        0  LCD_TIM.o(.rodata.str1.1)
-    .L.str.1                                 0x080b52a3   Data           6  LCD_Debug.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x080b52a3   Section        0  LCD_Debug.o(.rodata.str1.1)
-    .L.str                                   0x080b52a9   Data          22  LCD_Debug.o(.rodata.str1.1)
-    .L.str.1                                 0x080b52bf   Data          37  main.o(.rodata.str1.1)
-    [Anonymous Symbol]                       0x080b52bf   Section        0  main.o(.rodata.str1.1)
-    .L.str                                   0x080b52e4   Data          49  main.o(.rodata.str1.1)
+    .L.str                                   0x080b51e4   Data          97  LCD_SPI.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x080b51e4   Section        0  LCD_SPI.o(.rodata.str1.1)
+    .L.str                                   0x080b5245   Data          97  LCD_TIM.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x080b5245   Section        0  LCD_TIM.o(.rodata.str1.1)
+    .L.str.1                                 0x080b52a6   Data           6  LCD_Debug.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x080b52a6   Section        0  LCD_Debug.o(.rodata.str1.1)
+    .L.str                                   0x080b52ac   Data          22  LCD_Debug.o(.rodata.str1.1)
+    .L.str.1                                 0x080b52c2   Data          37  main.o(.rodata.str1.1)
+    [Anonymous Symbol]                       0x080b52c2   Section        0  main.o(.rodata.str1.1)
+    .L.str                                   0x080b52e7   Data          49  main.o(.rodata.str1.1)
     crd                                      0x20000184   Data           4  lcd.o(.data.crd)
     [Anonymous Symbol]                       0x20000184   Section        0  lcd.o(.data.crd)
     fontHeight                               0x20000188   Data           4  lcd.o(.data.fontHeight)
@@ -3606,12 +3606,11 @@ Memory Map of the image
     0x080b5104   0x080b5104   0x0000000c   Data   RO         1563    .rodata.USART3_rx   USART_STM32F4xx.o
     0x080b5110   0x080b5110   0x0000000c   Data   RO         1562    .rodata.USART3_tx   USART_STM32F4xx.o
     0x080b511c   0x080b511c   0x00000067   Data   RO         1158    .rodata.initCmds    LCD_Driver.o
-    0x080b5183   0x080b5183   0x00000060   Data   RO         1190    .rodata.str1.1      LCD_GUI.o
-    0x080b51e3   0x080b51e3   0x00000060   Data   RO         1254    .rodata.str1.1      LCD_SPI.o
-    0x080b5243   0x080b5243   0x00000060   Data   RO         1287    .rodata.str1.1      LCD_TIM.o
-    0x080b52a3   0x080b52a3   0x0000001c   Data   RO         1336    .rodata.str1.1      LCD_Debug.o
-    0x080b52bf   0x080b52bf   0x00000056   Data   RO         1586    .rodata.str1.1      main.o
-    0x080b5315   0x080b5315   0x00000003   PAD
+    0x080b5183   0x080b5183   0x00000061   Data   RO         1190    .rodata.str1.1      LCD_GUI.o
+    0x080b51e4   0x080b51e4   0x00000061   Data   RO         1254    .rodata.str1.1      LCD_SPI.o
+    0x080b5245   0x080b5245   0x00000061   Data   RO         1287    .rodata.str1.1      LCD_TIM.o
+    0x080b52a6   0x080b52a6   0x0000001c   Data   RO         1336    .rodata.str1.1      LCD_Debug.o
+    0x080b52c2   0x080b52c2   0x00000056   Data   RO         1586    .rodata.str1.1      main.o
     0x080b5318   0x080b5318   0x00000020   Data   RO         1707    Region$$Table       anon$$obj.o
 
 
@@ -3697,62 +3696,62 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-         0          0      11685          8          0       1085   Consolas40.o
-         0          0      28975          8          0       1085   Consolas60.o
-         0          0      46170          8          0       1085   Consolas80.o
-         0          0      60515          8          0       1085   Consolas90.o
-         0          0      11685          8          0       1101   ConsolasBold40.o
-         0          0      28975          8          0       1101   ConsolasBold60.o
-         0          0      46170          8          0       1101   ConsolasBold80.o
-         0          0      60515          8          0       1101   ConsolasBold90.o
-         0          0      17860          8          0       1093   CourierNew48.o
-         0          0      15960          8          0       1109   CourierNewBold40.o
-         0          0      35340          8          0       1109   CourierNewBold60.o
-         0          0      16340          8          0       1085   FiraMono40.o
-         0          0      30400          8          0       1085   FiraMono60.o
-         0          0      56525          8          0       1085   FiraMono80.o
-         0          0      64505          8          0       1085   FiraMono90.o
-         0          0      16720          8          0       1109   FiraMonoMedium40.o
-         0          0      30875          8          0       1109   FiraMonoMedium60.o
-         0          0      57855          8          0       1109   FiraMonoMedium80.o
-         0          0      64505          8          0       1109   FiraMonoMedium90.o
-       178          0         28          0          0       1251   LCD_Debug.o
-      1254          0        103          0          0       4618   LCD_Driver.o
-       422          0          0          0          0       2752   LCD_GPIO.o
-      1042          0         96          0          0       6764   LCD_GUI.o
-       612          0         96          4          0       5512   LCD_SPI.o
-       368          0         96          0         64       6208   LCD_TIM.o
-       410          0          0          0          0       3160   LCD_Tools.o
-        92          0          0          0         24       6503   LCD_Touch.o
-      8678         52        132          0         56      22564   USART_STM32F4xx.o
-       232          0          0          0          0       2487   error.o
-         0          0       1140          8          0        973   font12.o
-         0          0       3040          8          0        973   font16.o
-         0          0       3800          8          0        973   font20.o
-         0          0       6840          8          0        973   font24.o
-         0          0        760          8          0        969   font8.o
-        32          0          0        192          0       1989   fontsFLASH.o
-       524          0          0          0          0       3946   init.o
-       620          0          0         24          2       3936   lcd.o
-       556          0         86        192          0       3593   main.o
-        36          8        428          0       1024       1056   startup_stm32f429xx.o
-       174          0          0          0          0       1616   stdinout_USART.o
-       264          0          0          5          4       7969   stm32f4xx_hal.o
-       490          0          0          0          0      10030   stm32f4xx_hal_cortex.o
-       234          0          0          0          0       8901   stm32f4xx_hal_dma.o
-       218          0          0          0          0      16199   stm32f4xx_hal_eth.o
-      1754          0          0          0          0       5618   stm32f4xx_hal_gpio.o
-       190          0          0          0          0       4874   stm32f4xx_hal_pwr_ex.o
-      2586          0          0          0          0       8155   stm32f4xx_hal_rcc.o
-      1888         14          0          0          0      31973   stm32f4xx_hal_tim.o
-       290          0          0          0          0      13227   stm32f4xx_hal_tim_ex.o
-        48          0          0          0         72       4938   stm32f4xx_it.o
-       110          0         24          4          0       2931   system_stm32f4xx.o
+         0          0      11685          8          0       1089   Consolas40.o
+         0          0      28975          8          0       1089   Consolas60.o
+         0          0      46170          8          0       1089   Consolas80.o
+         0          0      60515          8          0       1089   Consolas90.o
+         0          0      11685          8          0       1105   ConsolasBold40.o
+         0          0      28975          8          0       1105   ConsolasBold60.o
+         0          0      46170          8          0       1105   ConsolasBold80.o
+         0          0      60515          8          0       1105   ConsolasBold90.o
+         0          0      17860          8          0       1097   CourierNew48.o
+         0          0      15960          8          0       1113   CourierNewBold40.o
+         0          0      35340          8          0       1113   CourierNewBold60.o
+         0          0      16340          8          0       1089   FiraMono40.o
+         0          0      30400          8          0       1089   FiraMono60.o
+         0          0      56525          8          0       1089   FiraMono80.o
+         0          0      64505          8          0       1089   FiraMono90.o
+         0          0      16720          8          0       1113   FiraMonoMedium40.o
+         0          0      30875          8          0       1113   FiraMonoMedium60.o
+         0          0      57855          8          0       1113   FiraMonoMedium80.o
+         0          0      64505          8          0       1113   FiraMonoMedium90.o
+       178          0         28          0          0       1255   LCD_Debug.o
+      1254          0        103          0          0       4622   LCD_Driver.o
+       422          0          0          0          0       2756   LCD_GPIO.o
+      1042          0         97          0          0       6768   LCD_GUI.o
+       612          0         97          4          0       5516   LCD_SPI.o
+       368          0         97          0         64       6212   LCD_TIM.o
+       410          0          0          0          0       3164   LCD_Tools.o
+        92          0          0          0         24       6507   LCD_Touch.o
+      8678         52        132          0         56      22568   USART_STM32F4xx.o
+       232          0          0          0          0       2491   error.o
+         0          0       1140          8          0        976   font12.o
+         0          0       3040          8          0        976   font16.o
+         0          0       3800          8          0        976   font20.o
+         0          0       6840          8          0        976   font24.o
+         0          0        760          8          0        972   font8.o
+        32          0          0        192          0       1993   fontsFLASH.o
+       524          0          0          0          0       3950   init.o
+       620          0          0         24          2       3940   lcd.o
+       556          0         86        192          0       3596   main.o
+        36          8        428          0       1024       1060   startup_stm32f429xx.o
+       174          0          0          0          0       1620   stdinout_USART.o
+       264          0          0          5          4       7973   stm32f4xx_hal.o
+       490          0          0          0          0      10034   stm32f4xx_hal_cortex.o
+       234          0          0          0          0       8905   stm32f4xx_hal_dma.o
+       218          0          0          0          0      16203   stm32f4xx_hal_eth.o
+      1754          0          0          0          0       5622   stm32f4xx_hal_gpio.o
+       190          0          0          0          0       4878   stm32f4xx_hal_pwr_ex.o
+      2586          0          0          0          0       8159   stm32f4xx_hal_rcc.o
+      1888         14          0          0          0      31977   stm32f4xx_hal_tim.o
+       290          0          0          0          0      13231   stm32f4xx_hal_tim_ex.o
+        48          0          0          0         72       4942   stm32f4xx_it.o
+       110          0         24          4          0       2935   system_stm32f4xx.o
 
     ----------------------------------------------------------------------
-     23422         74     718284        616       1248     218462   Object Totals
+     23422         74     718284        616       1248     218660   Object Totals
          0          0         32          0          0          0   (incl. Generated)
-       120          0          8          3          2          0   (incl. Padding)
+       120          0          5          3          2          0   (incl. Padding)
 
     ----------------------------------------------------------------------
 
@@ -3796,8 +3795,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     23916         92     718284        616       1248     218646   Grand Totals
-     23916         92     718284        464       1248     218646   ELF Image Totals (compressed)
+     23916         92     718284        616       1248     218844   Grand Totals
+     23916         92     718284        464       1248     218844   ELF Image Totals (compressed)
      23916         92     718284        464          0          0   ROM Totals
 
 ==============================================================================

@@ -117,7 +117,7 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-    "--compile-commands-dir=/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/out/TestProj/ITSboard/Debug"
+    "--compile-commands-dir=/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/out/A1Calculator/ITSboard/Debug"
   ],
   "debug.hideSlowPreLaunchWarning": true
 }

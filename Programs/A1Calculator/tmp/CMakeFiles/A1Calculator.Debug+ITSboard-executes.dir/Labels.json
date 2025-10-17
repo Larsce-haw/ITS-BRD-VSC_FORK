@@ -1,0 +1,40 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-executes"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-executes.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-build.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-configure.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-patch.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-update.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-download.rule"
+		},
+		{
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"A1Calculator.Debug+ITSboard"
+		],
+		"name" : "A1Calculator.Debug+ITSboard-executes"
+	}
+}

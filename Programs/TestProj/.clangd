@@ -1,6 +1,6 @@
 CompileFlags:
   CompilationDatabase: >-
-    /home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/out/TestProj/ITSboard/Debug
+    /home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/out/TestProj/ITSboard/Debug
   Add:
     - '-D_ILP32=1'
     - '-D_USE_STATIC_INLINE=1'
@@ -413,27 +413,27 @@ CompileFlags:
     - '-D__thumb__=1'
     - '-D__ARMCOMPILER_LIBCXX=1'
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/Inc
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/Inc
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/CMSIS/Device/ST/STM32F4xx/Include
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/CMSIS/Device/ST/STM32F4xx/Include
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/CMSIS/Include
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/CMSIS/Include
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Inc
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Inc
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/BSP/STM32F4xx_Nucleo_144
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Drivers/BSP/STM32F4xx_Nucleo_144
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Utilities/Fonts
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../stm32cubef4/Utilities/Fonts
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../DisplayWaveshare/Inc
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../DisplayWaveshare/Inc
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../ITS_BRD_LIB/Utilities/AddFonts
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../ITS_BRD_LIB/Utilities/AddFonts
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/RTE/_Debug_ITSboard
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/RTE/_Debug_ITSboard
     - '-I/home/larse/.cache/arm/packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include'
     - >-
       -I/home/larse/.cache/arm/packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include
     - >-
-      -I/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/../../ITS_BRD_LIB/Inc
+      -I/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/../../ITS_BRD_LIB/Inc

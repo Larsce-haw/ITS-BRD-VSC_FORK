@@ -5,8 +5,8 @@
             "name": "STLink@pyOCD (launch)",
             "type": "gdbtarget",
             "request": "launch",
-            "cwd": "${workspaceFolder}/Programs/TestProj",
-            "program": "out/TestProj/ITSboard/Debug/TestProj.axf",
+            "cwd": "${workspaceFolder}/Programs/A1Calculator",
+            "program": "out/A1Calculator/ITSboard/Debug/A1Calculator.axf",
             "gdb": "arm-none-eabi-gdb",
             "preLaunchTask": "CMSIS Load",
             "initCommands": [
@@ -43,8 +43,8 @@
             "name": "STLink@pyOCD (attach)",
             "type": "gdbtarget",
             "request": "attach",
-            "cwd": "${workspaceFolder}/Programs/TestProj",
-            "program": "out/TestProj/ITSboard/Debug/TestProj.axf",
+            "cwd": "${workspaceFolder}/Programs/A1Calculator",
+            "program": "out/A1Calculator/ITSboard/Debug/A1Calculator.axf",
             "gdb": "arm-none-eabi-gdb",
             "initCommands": [
                 ""

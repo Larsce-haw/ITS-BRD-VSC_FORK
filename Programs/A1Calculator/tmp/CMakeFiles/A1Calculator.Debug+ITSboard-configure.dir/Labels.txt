@@ -1,0 +1,10 @@
+# Target labels
+ A1Calculator.Debug+ITSboard
+# Source files and their labels
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-configure
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-configure.rule
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-configure.rule
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-patch.rule
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-update.rule
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-download.rule
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/A1Calculator.Debug+ITSboard/src/A1Calculator.Debug+ITSboard-stamp/A1Calculator.Debug+ITSboard-mkdir.rule

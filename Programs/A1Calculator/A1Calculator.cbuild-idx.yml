@@ -1,0 +1,20 @@
+build-idx:
+  generated-by: csolution version 2.11.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: A1Calculator.csolution.yml
+  cbuild-run: out/A1Calculator+ITSboard.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: A1Calculator.cproject.yml
+  cbuilds:
+    - cbuild: out/A1Calculator/ITSboard/Debug/A1Calculator.Debug+ITSboard.cbuild.yml
+      project: A1Calculator
+      configuration: .Debug+ITSboard
+      messages:
+        info:
+          - A1Calculator.cbuild-pack.yml - file is already up-to-date
+          - A1Calculator+ITSboard.cbuild-run.yml - file is already up-to-date
+          - A1Calculator.Debug+ITSboard.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.16.2
+        - pack: ARM::CMSIS-NN@7.0.0

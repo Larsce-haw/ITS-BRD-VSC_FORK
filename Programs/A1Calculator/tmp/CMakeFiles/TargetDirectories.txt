@@ -1,0 +1,8 @@
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/database.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-build.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-configure.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-executes.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/A1Calculator.Debug+ITSboard-database.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/edit_cache.dir
+/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/A1Calculator/tmp/CMakeFiles/rebuild_cache.dir

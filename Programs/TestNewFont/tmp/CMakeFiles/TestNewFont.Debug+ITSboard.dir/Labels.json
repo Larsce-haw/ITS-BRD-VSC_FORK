@@ -2,43 +2,43 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-complete.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Debug+ITSboard-complete.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-build.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-build.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-configure.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-configure.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-database.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-database.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-download.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-download.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-executes.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-executes.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-install.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-install.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-mkdir.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-mkdir.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-patch.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-patch.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-test.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-test.rule"
 		},
 		{
-			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-update.rule"
+			"file" : "/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestNewFont/tmp/TestNewFont.Debug+ITSboard/src/TestNewFont.Debug+ITSboard-stamp/TestNewFont.Debug+ITSboard-update.rule"
 		}
 	],
 	"target" : 

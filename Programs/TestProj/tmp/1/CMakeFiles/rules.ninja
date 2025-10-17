@@ -112,7 +112,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/larse/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/bin/cmake --regenerate-during-build -S/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard -B/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/1
+  command = /home/larse/.vcpkg/artifacts/2139c4c6/tools.kitware.cmake/3.28.4/bin/cmake --regenerate-during-build -S/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard -B/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/1
   description = Re-running CMake...
   generator = 1
 

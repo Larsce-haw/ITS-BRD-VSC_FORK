@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=/home/larse/Dokumente/HAW/module/s6/gs/testzone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard
+source_dir=/home/larse/Dokumente/HAW/module/s6/gs/test_zone/ITS-BRD-VSC_FORK/Programs/TestProj/tmp/TestProj.Debug+ITSboard
 work_dir=
 
